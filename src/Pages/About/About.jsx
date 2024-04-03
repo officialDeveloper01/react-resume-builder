@@ -67,7 +67,7 @@ function TestimonialCard(props) {
                     <chakra.span
                         fontFamily={'Inter'}
                         fontWeight={'medium'}
-                        color={'gray.500'}>
+                        color={'red.500'}>
                         {' '}
                         - <a href={role} target="_blank" rel="noopener noreferrer">{role}</a>
                     </chakra.span>
